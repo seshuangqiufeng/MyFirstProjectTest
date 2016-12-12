@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--表示对外开放的ID-->
+    <item type="id" name="view_table_a_id" />
+    <item type="id" name="view_horizontal_scroll_table_b_id" />
+    <item type="id" name="view_scroll_table_c_id" />
+    <item type="id" name="view_scroll_table_d_id" />
+
+</resources>

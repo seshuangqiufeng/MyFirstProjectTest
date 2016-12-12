@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.guoqiang.activeandroidtest">
+
+    <application
+
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <!--        android:name=".MyActiveApplication"-->
+
+
+        <meta-data android:name="AA_DB_NAME" android:value="guoqiang.db" />
+        <meta-data android:name="AA_DB_VERSION" android:value="1" />
+        <meta-data
+            android:name="AA_MODELS"
+            android:value="com.guoqiang.activeandroidtest.entity.People" />
+
+    </application>
+
+</manifest>

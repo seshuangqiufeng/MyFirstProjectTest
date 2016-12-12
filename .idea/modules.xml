@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidStudyTest.iml" filepath="$PROJECT_DIR$/MyAndroidStudyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activeandroidtest/activeandroidtest.iml" filepath="$PROJECT_DIR$/activeandroidtest/activeandroidtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/broadcasttest/broadcasttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbflowtest/dbflowtest.iml" filepath="$PROJECT_DIR$/dbflowtest/dbflowtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emailtest/emailtest.iml" filepath="$PROJECT_DIR$/emailtest/emailtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fangqqcehuashanchu/fangqqcehuashanchu.iml" filepath="$PROJECT_DIR$/fangqqcehuashanchu/fangqqcehuashanchu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphviewtest/graphviewtest.iml" filepath="$PROJECT_DIR$/graphviewtest/graphviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewandcheckbox/listviewandcheckbox.iml" filepath="$PROJECT_DIR$/listviewandcheckbox/listviewandcheckbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myselfview/myselfview.iml" filepath="$PROJECT_DIR$/myselfview/myselfview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ormlite/ormlite.iml" filepath="$PROJECT_DIR$/ormlite/ormlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullandswipelisttest/pullandswipelisttest.iml" filepath="$PROJECT_DIR$/pullandswipelisttest/pullandswipelisttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullandswipestudy/pullandswipestudy.iml" filepath="$PROJECT_DIR$/pullandswipestudy/pullandswipestudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realmtest/realmtest.iml" filepath="$PROJECT_DIR$/realmtest/realmtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelibrary/swipelibrary.iml" filepath="$PROJECT_DIR$/swipelibrary/swipelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablefreepane/tablefreepane.iml" filepath="$PROJECT_DIR$/tablefreepane/tablefreepane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threelevellistview/threelevellistview.iml" filepath="$PROJECT_DIR$/threelevellistview/threelevellistview.iml" />
+    </modules>
+  </component>
+</project>

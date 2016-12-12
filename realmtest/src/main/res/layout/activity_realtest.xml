@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_active_insert"
+        android:layout_width="45dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="增加" />
+
+
+    <TextView
+        android:id="@+id/tv_active_delete"
+        android:layout_width="45dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="删除" />
+
+
+    <TextView
+        android:id="@+id/tv_active_check"
+        android:layout_width="45dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="查询" />
+
+
+
+    <TextView
+        android:id="@+id/tv_active_change"
+        android:layout_width="45dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="修改" />
+
+
+</LinearLayout>

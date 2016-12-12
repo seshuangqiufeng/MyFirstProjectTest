@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PullToRefresh" />
+            <option value="$PROJECT_DIR$/activeandroidtest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcasttest" />
+            <option value="$PROJECT_DIR$/dbflowtest" />
+            <option value="$PROJECT_DIR$/emailtest" />
+            <option value="$PROJECT_DIR$/fangqqcehuashanchu" />
+            <option value="$PROJECT_DIR$/graphviewtest" />
+            <option value="$PROJECT_DIR$/greendao" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/listviewandcheckbox" />
+            <option value="$PROJECT_DIR$/myselfview" />
+            <option value="$PROJECT_DIR$/ormlite" />
+            <option value="$PROJECT_DIR$/pullandswipelisttest" />
+            <option value="$PROJECT_DIR$/pullandswipestudy" />
+            <option value="$PROJECT_DIR$/realmtest" />
+            <option value="$PROJECT_DIR$/swipelibrary" />
+            <option value="$PROJECT_DIR$/tablefreepane" />
+            <option value="$PROJECT_DIR$/threelevellistview" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PullToRefresh" />
+            <option value="$PROJECT_DIR$/activeandroidtest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcasttest" />
+            <option value="$PROJECT_DIR$/dbflowtest" />
+            <option value="$PROJECT_DIR$/emailtest" />
+            <option value="$PROJECT_DIR$/fangqqcehuashanchu" />
+            <option value="$PROJECT_DIR$/graphviewtest" />
+            <option value="$PROJECT_DIR$/greendao" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/listviewandcheckbox" />
+            <option value="$PROJECT_DIR$/myselfview" />
+            <option value="$PROJECT_DIR$/ormlite" />
+            <option value="$PROJECT_DIR$/pullandswipelisttest" />
+            <option value="$PROJECT_DIR$/pullandswipestudy" />
+            <option value="$PROJECT_DIR$/realmtest" />
+            <option value="$PROJECT_DIR$/swipelibrary" />
+            <option value="$PROJECT_DIR$/tablefreepane" />
+            <option value="$PROJECT_DIR$/threelevellistview" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

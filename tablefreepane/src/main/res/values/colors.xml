@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="filter_selected_color">#496de9</color>
+    <color name="shop_classify_txt_color">#444444</color>
+
+    <color name="cart_line_color_blue">#AAB6D8</color>
+    <color name="shop_list_txt_top">#ff5252</color>
+    <color name="shop_shop_txt_price">#ff9000</color>
+    <color name="shop_shop_txt_price_old">#666666</color>
+    <color name="address_middle_color">#888888</color>
+
+    <color name="order_list_item_name">#444444</color>
+    <color name="order_list_item_price">#999999</color>
+    <color name="order_list_item_pay_btn">#FF9000</color>
+
+    <color name="allE">#eeeeee</color>
+    <color name="allC">#cccccc</color>
+    <color name="light_yellow">#ff9000</color>
+    <color name="low_yellow">#ee9000</color>
+    <color name="shop_color_yellow">#ff8900</color><!--通用黄色-->
+    <color name="shop_color_yellow_dark">#b66302</color>
+    <color name="shop_color_blue">#4161e0</color>
+
+    <color name="donecolor">#4161E0</color>
+    <color name="undonecolor">#AAB6D8</color>
+</resources>

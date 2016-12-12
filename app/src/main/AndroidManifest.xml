@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.guoqiang.myandroidstudytest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.guoqiang.fangqqcehuashanchu.activity.CeHuaShanchuActivity" />
+
+        <activity android:name="com.example.tablefreezepane.TableMainActivity" />
+        <activity android:name=".activity.ListToListActivity" />
+        <activity android:name=".activity.CustomViewActivity"/>
+        <activity android:name="com.guoqiang.graphviewtest.GraphViewActivity" />
+
+        <activity android:name=".activity.SideSlipActivity" />
+        <activity android:name="com.guoqiang.myselfview.activity.MySelfViewActivity" />
+        <activity android:name="com.guoqiang.broadcasttest.BroadCastTestActivity" />
+        <activity android:name="com.guoqiang.listviewandcheckbox.activity.ListViewandCheckBoxActivity"/>
+        <activity android:name="com.guoqiang.activeandroidtest.activity.ActiveActivity"/>
+        <activity android:name="com.guoqiang.ormlite.activity.MyOrmliteActivity"/>
+        <activity android:name="com.guoqiang.threelevellistview.activity.ThreeLevelActivity"/>
+        <activity android:name="com.guoqiang.realmtest.activity.RealmTestActivity"/>
+        <activity android:name="com.guoqiang.dbflowtest.activity.DbFlowTestActivity"/>
+        <activity android:name="com.guoqiang.greendao.activity.GreenDaoActivity"/>
+        <activity android:name="com.guoqiang.pullandswipelisttest.activity.PullAndSwipeTestActivity"/>
+        <receiver android:name="com.guoqiang.broadcasttest.MyReceiver"/>
+        
+    </application>
+
+</manifest>
