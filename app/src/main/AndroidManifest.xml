@@ -34,6 +34,7 @@
         <activity android:name="com.guoqiang.dbflowtest.activity.DbFlowTestActivity"/>
         <activity android:name="com.guoqiang.greendao.activity.GreenDaoActivity"/>
         <activity android:name="com.guoqiang.pullandswipelisttest.activity.PullAndSwipeTestActivity"/>
+        <activity android:name="com.guoqiang.wgqviewtest.activity.WGQActivity"/>
         <receiver android:name="com.guoqiang.broadcasttest.MyReceiver"/>
         
     </application>

@@ -7,7 +7,7 @@
 
     <com.jjoe64.graphview.GraphView
         android:id="@+id/gv_view"
-        android:layout_width="match_parent"
-        android:layout_height="200dip" />
+        android:layout_width="400dp"
+        android:layout_height="400dp" />
 
 </LinearLayout>

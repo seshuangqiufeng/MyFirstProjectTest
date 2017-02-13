@@ -24,6 +24,7 @@ import com.guoqiang.ormlite.activity.MyOrmliteActivity;
 import com.guoqiang.pullandswipelisttest.activity.PullAndSwipeTestActivity;
 import com.guoqiang.realmtest.activity.RealmTestActivity;
 import com.guoqiang.threelevellistview.activity.ThreeLevelActivity;
+import com.guoqiang.wgqviewtest.activity.WGQActivity;
 
 import butterknife.ButterKnife;
 
@@ -37,7 +38,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
             "CustomViewTest","ListToListTest","GraphViewTest",
             "侧滑滑出侧滑菜单","自定义View","广播通知测试",
             "测试ListViewAndCheckBox","自定义View","activeAndroidTest",
-            "ormliteTest","threelevellistview","realmtest","dbflowtest","greendaotest","pullandswipe"
+            "ormliteTest","threelevellistview","realmtest","dbflowtest","greendaotest","pullandswipe","wgqViewTest"
     };
 
     @Override
@@ -112,6 +113,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
             startActivity(new Intent(this, GreenDaoActivity.class));
         }else if(tag.equalsIgnoreCase("pullandswipe")){
             startActivity(new Intent(this, PullAndSwipeTestActivity.class));
+        }else if(tag.equalsIgnoreCase("wgqViewTest")){
+            startActivity(new Intent(this, WGQActivity.class));
         }
     }
 }

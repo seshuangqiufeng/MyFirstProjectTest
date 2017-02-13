@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="wgqTitleBar">
+
+        <attr name="wgqtitleText" format="string"/>
+        <attr name="wgqtitleTextColor" format="color"/>
+        <attr name="wgqtitleTextSize" format="dimension"/>
+
+        <attr name="leftText" format="string"/>
+        <attr name="leftBackground" format="reference|color"/>
+        <attr name="leftTextColor" format="color"/>
+        <attr name="leftTextSize" format="dimension"/>
+
+        <attr name="rightText" format="string"/>
+        <attr name="rightBackground" format="reference|color"/>
+        <attr name="rightTextColor" format="color"/>
+        <attr name="rightTextSize" format="dimension"/>
+
+        
+    </declare-styleable>
+    
+    
+    <declare-styleable name="wgqCircleView">
+        
+        <attr name="outcolor" format="color"></attr>
+        <attr name="middlecolor" format="color"></attr>
+        <attr name="insidecolor" format="color"></attr>
+        <attr name="insideradius" format="dimension"/>
+        <attr name="middleradius" format="dimension"/>
+        <attr name="outradius" format="dimension"/>
+        <attr name="arccolor" format="color"/>
+        <attr name="arcradius" format="dimension"/>
+        
+        
+    </declare-styleable>
+    
+    
+    <declare-styleable name="wgqVoiceView">
+        
+        <attr name="rectColor" format="color"/>
+        <attr name="rectWidth" format="dimension"/>
+        
+    </declare-styleable>
+    
+    
+</resources>

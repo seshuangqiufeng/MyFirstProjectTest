@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/dbflowtest/dbflowtest.iml" filepath="$PROJECT_DIR$/dbflowtest/dbflowtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/emailtest/emailtest.iml" filepath="$PROJECT_DIR$/emailtest/emailtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fangqqcehuashanchu/fangqqcehuashanchu.iml" filepath="$PROJECT_DIR$/fangqqcehuashanchu/fangqqcehuashanchu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphview/graphview.iml" filepath="$PROJECT_DIR$/graphview/graphview.iml" />
       <module fileurl="file://$PROJECT_DIR$/graphviewtest/graphviewtest.iml" filepath="$PROJECT_DIR$/graphviewtest/graphviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/swipelibrary/swipelibrary.iml" filepath="$PROJECT_DIR$/swipelibrary/swipelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablefreepane/tablefreepane.iml" filepath="$PROJECT_DIR$/tablefreepane/tablefreepane.iml" />
       <module fileurl="file://$PROJECT_DIR$/threelevellistview/threelevellistview.iml" filepath="$PROJECT_DIR$/threelevellistview/threelevellistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wgqviewtest/wgqviewtest.iml" filepath="$PROJECT_DIR$/wgqviewtest/wgqviewtest.iml" />
     </modules>
   </component>
 </project>

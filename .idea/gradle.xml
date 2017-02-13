@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/dbflowtest" />
             <option value="$PROJECT_DIR$/emailtest" />
             <option value="$PROJECT_DIR$/fangqqcehuashanchu" />
+            <option value="$PROJECT_DIR$/graphview" />
             <option value="$PROJECT_DIR$/graphviewtest" />
             <option value="$PROJECT_DIR$/greendao" />
             <option value="$PROJECT_DIR$/library" />
@@ -26,6 +27,7 @@
             <option value="$PROJECT_DIR$/swipelibrary" />
             <option value="$PROJECT_DIR$/tablefreepane" />
             <option value="$PROJECT_DIR$/threelevellistview" />
+            <option value="$PROJECT_DIR$/wgqviewtest" />
           </set>
         </option>
         <option name="myModules">
@@ -38,6 +40,7 @@
             <option value="$PROJECT_DIR$/dbflowtest" />
             <option value="$PROJECT_DIR$/emailtest" />
             <option value="$PROJECT_DIR$/fangqqcehuashanchu" />
+            <option value="$PROJECT_DIR$/graphview" />
             <option value="$PROJECT_DIR$/graphviewtest" />
             <option value="$PROJECT_DIR$/greendao" />
             <option value="$PROJECT_DIR$/library" />
@@ -49,6 +52,7 @@
             <option value="$PROJECT_DIR$/swipelibrary" />
             <option value="$PROJECT_DIR$/tablefreepane" />
             <option value="$PROJECT_DIR$/threelevellistview" />
+            <option value="$PROJECT_DIR$/wgqviewtest" />
           </set>
         </option>
       </GradleProjectSettings>

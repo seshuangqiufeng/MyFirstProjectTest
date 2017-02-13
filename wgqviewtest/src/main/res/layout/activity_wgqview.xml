@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <com.guoqiang.wgqviewtest.view.wgqTitleBar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        app:leftText="退回"
+        android:visibility="gone"
+        app:leftTextColor="@android:color/holo_red_light"
+        app:leftTextSize="13dp"
+        app:rightText="haha"
+        app:rightTextColor="@android:color/holo_blue_dark"
+        app:rightTextSize="23dp"
+        app:wgqtitleText="TOPBAR测试"
+        app:wgqtitleTextColor="@android:color/background_dark"
+        app:wgqtitleTextSize="14dp"
+
+        ></com.guoqiang.wgqviewtest.view.wgqTitleBar>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/topbar"
+        android:gravity="center"
+        android:visibility="gone"
+        android:text="测试"
+        android:textSize="34sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_title"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <com.guoqiang.wgqviewtest.view.wgqView1
+
+            android:layout_width="300dp"
+            android:layout_height="20dp"
+            android:background="#63c357" />
+
+        <com.guoqiang.wgqviewtest.view.wgqTextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:background="#33bbbbbb"
+            android:gravity="center"
+            android:text="国强测试"
+            android:textSize="14dp" />
+
+        <com.guoqiang.wgqviewtest.view.wgqCircleView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:wgq="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            wgq:arcradius="45dp"
+            wgq:insideradius="15dp"
+            wgq:middleradius="25dp"
+            wgq:outradius="35dp" />
+
+        <com.guoqiang.wgqviewtest.view.wgqVoiceView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:voice="http://schemas.android.com/apk/res-auto"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:background="#33ffffff"
+            voice:rectWidth="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/topbar"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+
+        <com.guoqiang.wgqviewtest.view.wgqTouchGroup1
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_red_light"
+            android:orientation="vertical"
+            android:padding="35dp">
+
+            <com.guoqiang.wgqviewtest.view.wgqTouchGroup2
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#345678"
+                android:orientation="vertical"
+                android:padding="35dp">
+
+
+                <com.guoqiang.wgqviewtest.view.wgqTouchView
+                    android:layout_width="match_parent"
+                    android:background="#ffffff"
+                    android:layout_height="match_parent" />
+
+            </com.guoqiang.wgqviewtest.view.wgqTouchGroup2>
+
+
+        </com.guoqiang.wgqviewtest.view.wgqTouchGroup1>
+
+
+    </LinearLayout>
+
+
+    <com.guoqiang.wgqviewtest.view.wgqScrollViewGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test3" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test4" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test1" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test3" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/test4" />
+
+
+    </com.guoqiang.wgqviewtest.view.wgqScrollViewGroup>
+</LinearLayout>

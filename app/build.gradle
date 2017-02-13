@@ -39,4 +39,5 @@ dependencies {
     compile project(':dbflowtest')
     compile project(':greendao')
     compile project(':pullandswipelisttest')
+    compile project(':wgqviewtest')
 }
